@@ -3,7 +3,7 @@ name = "recognizer-telemetry"
 version = "0.1.0"
 edition = "2021"
 description = "Real-time system telemetry streamer parsing 100k events/sec with WebGL visualization"
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0"
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }

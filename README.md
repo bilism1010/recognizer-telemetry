@@ -13,6 +13,7 @@
 
 [![Rust](https://img.shields.io/badge/RUST-1.75%2B-00e5ff?style=for-the-badge&logo=rust&logoColor=white&labelColor=03060f)](https://www.rust-lang.org/)
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE%20RESEARCH-18a0ff?style=for-the-badge&labelColor=03060f)](https://github.com/bsommers)
+[![License](https://img.shields.io/badge/LICENSE-APACHE%202.0-00e5ff?style=for-the-badge&labelColor=03060f)](LICENSE)
 [![Ingestion](https://img.shields.io/badge/INGESTION-100k%2B%20EVENTS%2FSEC-00e5ff?style=for-the-badge&labelColor=03060f)](#performance-targets)
 [![Frontend](https://img.shields.io/badge/VISUALIZATION-60%20FPS%20WEBGL-00e5ff?style=for-the-badge&labelColor=03060f)](#the-solution)
 
@@ -164,6 +165,18 @@ Please provide:
 3. WebGL/WebGPU instancing and VBO buffer swapping strategy to maintain 60 FPS without garbage collection pauses.
 4. Minimal proof-of-concept design for the binary streaming protocol.
 ```
+
+---
+
+## 📄 License & Commercial Rights
+
+`Recognizer Telemetry` is released under the **[Apache License 2.0](LICENSE)**.
+
+* **Open-Source Freedom**: Permissive license granting royalty-free copyright and patent usage, redistribution, and modification rights with attribution.
+* **Explicit Patent Grant & Retaliation Protection**: Section 3 protects contributors and users against patent infringement claims, offering strong legal protection for systems code and SIMD algorithms.
+* **Commercialization & Open-Core Model**: As sole copyright holder (Bill Sommers), the author retains the right to offer proprietary enterprise editions, custom collectors/connectors, managed cloud dashboards, and commercial support/SLA offerings alongside the open-source engine.
+
+For licensing questions, custom commercial licensing, or enterprise integrations, please see [NOTICE](NOTICE) or contact Bill Sommers.
 
 ---
 
